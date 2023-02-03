@@ -26,12 +26,12 @@ public enum ModArmorMaterial implements ArmorMaterial {
     RED_CHRISTMAS("red_christmas", 25, new int[] {3, 6, 8, 3}, 10, Items.DIAMOND, SoundEvents.ARMOR_EQUIP_DIAMOND, 2.0f, 0.0f),
     GREEN_CHRISTMAS("green_christmas", 25, new int[] {3, 6, 8, 3}, 10, Items.DIAMOND, SoundEvents.ARMOR_EQUIP_DIAMOND, 2.0f, 0.0f),
     RED_SANTA_HAT("red_santa_hat", 25, new int[] {3, 6, 8, 3}, 10, Items.DIAMOND, SoundEvents.ARMOR_EQUIP_DIAMOND, 2.0f, 0.0f),
-    REINDEER_EARS("reindeerEars", 25, new int[] {3, 6, 8, 3}, 10, Items.DIAMOND, SoundEvents.ARMOR_EQUIP_DIAMOND, 2.0f, 0.0f),
+    REINDEER_EARS("reindeer_ears", 25, new int[] {3, 6, 8, 3}, 10, Items.DIAMOND, SoundEvents.ARMOR_EQUIP_DIAMOND, 2.0f, 0.0f),
     
     REINFORCED_RED_CHRISTMAS("reinforced_red_christmas", 37, new int[] {3, 6, 8, 3}, 15, Items.NETHERITE_INGOT, SoundEvents.ARMOR_EQUIP_NETHERITE, 3.0f, 0.1f),
     REINFORCED_GREEN_CHRISTMAS("reinforced_green_christmas", 37, new int[] {3, 6, 8, 3}, 15, Items.NETHERITE_INGOT, SoundEvents.ARMOR_EQUIP_NETHERITE, 3.0f, 0.1f),
     REINFORCED_RED_SANTA_HAT("reinforced_red_santa_hat", 37, new int[] {3, 6, 8, 3}, 15, Items.NETHERITE_INGOT, SoundEvents.ARMOR_EQUIP_NETHERITE, 3.0f, 0.1f),
-    REINFORCED_REINDEER_EARS("reinforced_reindeerEars", 37, new int[] {3, 6, 8, 3}, 15, Items.NETHERITE_INGOT, SoundEvents.ARMOR_EQUIP_NETHERITE, 3.0f, 0.1f),
+    REINFORCED_REINDEER_EARS("reinforced_reindeer_ears", 37, new int[] {3, 6, 8, 3}, 15, Items.NETHERITE_INGOT, SoundEvents.ARMOR_EQUIP_NETHERITE, 3.0f, 0.1f),
 
     ANGORA_WOOL("angora", 25, new int[] {3, 6, 8, 3}, 10, Items.DIAMOND, SoundEvents.ARMOR_EQUIP_DIAMOND, 2.0f, 0.0f),
     ANGORA_WOOL_LEATHER("angora_leather", 5, new int[] {1, 2, 3, 1}, 15, Items.LEATHER, SoundEvents.ARMOR_EQUIP_LEATHER, 0.0f, 0.0f),
