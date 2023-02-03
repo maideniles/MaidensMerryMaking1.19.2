@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+				
+		{
+			"item": "minecraft:cooked_chicken"
+		},
+		{
+			"item": "minecraft:carrot"
+		},
+		{
+			"item": "maidensmerrymaking:corn"
+		},
+		{
+			"item": "maidensmerrymaking:sweet_potato"
+		},
+		
+		{
+			"item": "minecraft:potato"
+		},
+		{
+			"item": "minecraft:beetroot"
+		},
+		{
+			"item": "maidensmerrymaking:quartz_platter"
+		}
+		
+		
+		
+		
+		
+	],
+	"result": {
+		"item": "maidensmerrymaking:stuffed_poultry_dinner",
+		"count": 1
+	}
+}

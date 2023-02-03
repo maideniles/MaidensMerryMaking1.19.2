@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "maidensmerrymaking:striped_pajama_pants_leather"
+    },
+    "addition": {
+        "item": "minecraft:iron_leggings"
+    },
+    "result": {
+        "item": "maidensmerrymaking:striped_pajama_pants_iron"
+    }
+}

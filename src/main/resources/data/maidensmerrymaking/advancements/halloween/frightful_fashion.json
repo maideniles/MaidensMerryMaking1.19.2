@@ -1,0 +1,93 @@
+{
+  "parent": "maidensmerrymaking:halloween/root",
+  "display": {
+    "icon": {
+      "item": "maidensmerrymaking:pirate_mask"
+    },
+    "title": {
+      "text": "Frightfully Fashionable",
+      "color": "purple"
+
+    },
+    "description": {
+      "text": "Collect all the Halloween Costumes! (Diamond Tier)",
+      "color": "light_purple"
+    },
+      "frame": "challenge",
+
+      "show_toast": true,
+
+      "announce_to_chat": true,
+      "hidden": false
+  },
+
+  
+   "criteria": {
+	   
+	   
+    "frankenstein": {
+      "trigger": "maidensmerrymaking:frightful_fashion",
+      "conditions": {
+        "advancement": "maidensmerrymaking:halloween/costumes/frankenstein"
+      }
+    },
+  
+    "mummy": {
+      "trigger": "maidensmerrymaking:frightful_fashion",
+      "conditions": {
+        "advancement": "maidensmerrymaking:halloween/costumes/mummy"
+      }
+    },
+  
+    "pirate": {
+      "trigger": "maidensmerrymaking:frightful_fashion",
+      "conditions": {
+        "advancement": "maidensmerrymaking:halloween/costumes/pirate"
+      }
+    },
+    
+    "mermaid": {
+      "trigger": "maidensmerrymaking:frightful_fashion",
+      "conditions": {
+        "advancement": "maidensmerrymaking:halloween/costumes/mermaid"
+      }
+    },
+	
+	"merman": {
+      "trigger": "maidensmerrymaking:frightful_fashion",
+      "conditions": {
+        "advancement": "maidensmerrymaking:halloween/costumes/merman"
+      }
+    },
+	
+	"bride": {
+      "trigger": "maidensmerrymaking:frightful_fashion",
+      "conditions": {
+        "advancement": "maidensmerrymaking:halloween/costumes/bride"
+      }
+    }
+	
+	
+	
+ 
+  },
+  
+  "requirements": [
+    
+     [ "frankenstein"],
+      ["mummy"],
+      ["pirate"],
+     
+      ["mermaid"],
+	  ["merman"],
+	  ["bride"]
+	 
+       
+  ],
+  
+  "rewards": {
+    "loot": [
+      "minecraft:netherite_ingot"
+    ]
+  }
+}

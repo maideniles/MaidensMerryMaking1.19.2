@@ -1,0 +1,96 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 64,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 8, 0],
+					"rotation": [90, 0, 0],
+					"cubes": [
+						{"origin": [-3, 4, -5], "size": [6, 8, 6], "uv": [0, 9]}
+					]
+				},
+				{
+					"name": "head",
+					"pivot": [0, 9, -4],
+					"cubes": [
+						{"origin": [-2, 12, -6], "size": [4, 4, 4], "uv": [1, 23]}
+					]
+				},
+				{
+					"name": "beak",
+					"parent": "head",
+					"pivot": [0, 9, -4],
+					"cubes": [
+						{"origin": [-2, 12.25, -8], "size": [4, 2, 2], "uv": [14, 0]}
+					]
+				},
+				{
+					"name": "leg0",
+					"pivot": [0, 5, 2],
+					"cubes": [
+						{"origin": [-3, 0.04362, -1.99905], "size": [3, 4, 3], "uv": [26, 0]}
+					]
+				},
+				{
+					"name": "leg1",
+					"pivot": [0, 4, 1],
+					"cubes": [
+						{"origin": [0, 0, -2], "size": [3, 4, 3], "uv": [26, 0]}
+					]
+				},
+				{
+					"name": "wing0",
+					"pivot": [-3, 6, 0],
+					"cubes": [
+						{"origin": [-4, 4.25, -3], "size": [1, 4, 6], "uv": [24, 13]}
+					]
+				},
+				{
+					"name": "wing1",
+					"pivot": [3, 7, 0],
+					"cubes": [
+						{"origin": [3, 4.25, -3], "size": [1, 4, 6], "uv": [24, 13]}
+					]
+				},
+				{
+					"name": "wing2",
+					"pivot": [3, 11, 0],
+					"cubes": [
+						{"origin": [3.25, 3.65, -3.5], "size": [1, 4, 4], "uv": [12, 15]}
+					]
+				},
+				{
+					"name": "wing3",
+					"pivot": [-3, 6, 0],
+					"cubes": [
+						{"origin": [-4.3, 3.75, -3.5], "size": [1, 4, 4], "uv": [12, 15]}
+					]
+				},
+				{
+					"name": "neck",
+					"pivot": [0, 9, -4],
+					"cubes": [
+						{"origin": [-1, 7, -5], "size": [2, 5, 2], "uv": [20, 8]}
+					]
+				},
+				{
+					"name": "tail",
+					"pivot": [0, 8, 4],
+					"cubes": [
+						{"origin": [-2.9, 0.6, -1.65], "size": [5.8, 4, 1], "pivot": [0, 8, 0], "rotation": [112.5, 0, 0], "uv": [17, 23]}
+					]
+				}
+			]
+		}
+	]
+}

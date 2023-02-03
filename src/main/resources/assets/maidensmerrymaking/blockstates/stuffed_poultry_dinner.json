@@ -1,0 +1,13 @@
+{
+"variants": {
+	
+
+	"facing=north": {"model": "maidensmerrymaking:block/chicken_dinner"},
+	"facing=south": { "model": "maidensmerrymaking:block/chicken_dinner", "y": 180},
+	"facing=east": { "model": "maidensmerrymaking:block/chicken_dinner","y": 90},
+	"facing=west": { "model": "maidensmerrymaking:block/chicken_dinner", "y": 270}
+	
+}
+	
+	
+}

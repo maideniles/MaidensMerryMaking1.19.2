@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern": [
+    "   ",
+	"RBG",
+	" S "
+  ],
+  "key": {
+	  
+    "S": {
+      "item": "minecraft:dark_oak_slab"
+    },
+	
+	"R": {
+      "item": "minecraft:red_candle"
+    },
+	
+	"B": {
+      "item": "minecraft:black_candle"
+    },
+	
+	"G": {
+      "item": "minecraft:green_candle"
+    }
+	
+	
+  },
+  "result": {
+    "item": "maidensmerrymaking:kinara"
+  }
+}

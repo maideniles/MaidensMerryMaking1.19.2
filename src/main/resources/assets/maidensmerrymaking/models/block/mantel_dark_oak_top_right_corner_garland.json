@@ -1,0 +1,11 @@
+{
+  "parent": "maidensmerrymaking:block/mantel_top_right_corner_garland",
+  "render_type": "cutout_mipped", 
+  "textures": {
+		"wood": "block/dark_oak_planks",
+		"bow": "maidensmerrymaking:block/garland_bow",
+		"garland": "maidensmerrymaking:block/garland_horizontal",
+		
+		"particle": "#wood"
+	}
+}

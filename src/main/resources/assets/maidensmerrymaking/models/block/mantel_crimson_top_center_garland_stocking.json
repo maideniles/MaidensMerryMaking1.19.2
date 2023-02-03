@@ -1,0 +1,10 @@
+{
+	
+	"parent": "maidensmerrymaking:block/mantel_top_center_garland_stocking",
+	"render_type": "cutout_mipped", 
+	"textures": {
+		"garland": "maidensmerrymaking:block/garland_horizontal",
+		"wood": "minecraft:block/crimson_planks",
+		"particle": "maidensmerrymaking:block/garland_horizontal"
+	}
+}

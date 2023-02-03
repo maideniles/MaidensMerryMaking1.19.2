@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:spruce_leaves"
+    }
+  ],
+  "addition": "maidensmerrymaking:tiny_spruce",
+  "type": "maidensmerrymaking:spruce_leaves_drop_tiny_sapling"
+}

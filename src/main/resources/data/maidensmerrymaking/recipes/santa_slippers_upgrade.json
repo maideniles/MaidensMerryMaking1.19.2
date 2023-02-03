@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "maidensmerrymaking:santa_slippers"
+    },
+    "addition": {
+        "item": "minecraft:netherite_ingot"
+    },
+    "result": {
+        "item": "maidensmerrymaking:reinforced_santa_slippers"
+    }
+}

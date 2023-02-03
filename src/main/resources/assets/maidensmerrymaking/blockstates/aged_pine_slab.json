@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "maidensmerrymaking:block/aged_pine_slab" },
+        "type=top": { "model": "maidensmerrymaking:block/aged_pine_slab_top" },
+        "type=double": { "model": "maidensmerrymaking:block/aged_pine_planks" }
+    }
+}

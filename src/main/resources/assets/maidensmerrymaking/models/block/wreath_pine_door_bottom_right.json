@@ -1,0 +1,8 @@
+{
+  "parent": "maidensmerrymaking:block/wreath_door_bottom_right",
+  "render_type": "cutout_mipped",  
+  "textures": {
+    "bottom": "maidensmerrymaking:block/pine_door_bottom",
+    "top": "maidensmerrymaking:block/pine_door_top"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+ 
+  "pattern": [
+    
+    "BBB",
+	"DDD"
+  ],
+  "key": {
+  
+   "B": {
+      "item": "minecraft:stone_pressure_plate"
+    },
+	
+    "D": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "item": "maidensmerrymaking:mantel_deco_boo",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+
+{
+        "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		{
+			"item": "minecraft:white_dye"
+		},
+		
+		{
+			"item": "maidensmerrymaking:christmas_tree"
+		}
+		
+			
+	],
+        "result": {
+          "item": "maidensmerrymaking:white_christmas_tree"
+        }
+}

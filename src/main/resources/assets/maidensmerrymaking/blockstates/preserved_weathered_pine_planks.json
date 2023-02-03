@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "": 	[
+	{
+      "model": "maidensmerrymaking:block/weathered_pine_planks"
+    },
+	
+	{
+      "model": "maidensmerrymaking:block/weathered_pine_planks_1"
+    }
+	]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "maidensmerrymaking:block/stripped_aged_pine_log"
+  }
+}

@@ -1,0 +1,30 @@
+
+
+{
+      "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		{
+			"item": "minecraft:egg"
+		},
+		
+		{
+			"item": "minecraft:wheat"
+		},
+		
+		{
+			"item": "minecraft:sugar"
+		},
+		
+		{
+			"item": "minecraft:milk_bucket"
+		},
+		{
+			"item": "minecraft:pumpkin"
+		}
+			
+	],
+        "result": {
+          "item": "maidensmerrymaking:pumpkin_bread"
+        }
+}

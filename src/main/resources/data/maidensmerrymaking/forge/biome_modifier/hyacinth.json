@@ -1,0 +1,10 @@
+{
+  "type": "maidensmerrymaking:add_hyacinth",
+  "biomes": ["minecraft:plains", 
+			
+			 "minecraft:river"
+  
+  ],
+  "plant": "maidensmerrymaking:hyacinth_placement",
+  "step": "vegetal_decoration"
+}

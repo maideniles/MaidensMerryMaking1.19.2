@@ -1,0 +1,11 @@
+{
+	
+	"parent": "maidensmerrymaking:block/mantel_top_center_garland_lit",
+	"render_type": "cutout_mipped", 
+	"textures": {
+		"garland": "maidensmerrymaking:block/garland_horizontal_multi",
+		"wood": "minecraft:block/mangrove_planks",
+		"bow": "maidensmerrymaking:block/garland_bow",
+		"particle": "maidensmerrymaking:block/garland_horizontal_multi"
+	}
+}

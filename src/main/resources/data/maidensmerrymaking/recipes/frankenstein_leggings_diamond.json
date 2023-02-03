@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "maidensmerrymaking:frankenstein_leggings_iron"    },
+    "addition": {
+        "item": "minecraft:diamond_leggings"    },
+    "result": {
+        "item": "maidensmerrymaking:frankenstein_leggings"    }     }

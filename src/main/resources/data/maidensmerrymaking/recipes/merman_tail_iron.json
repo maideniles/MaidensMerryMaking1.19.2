@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "maidensmerrymaking:merman_tail_leather"    },
+    "addition": {
+        "item": "minecraft:iron_leggings"    },
+    "result": {
+        "item": "maidensmerrymaking:merman_tail_iron"    }     }

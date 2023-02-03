@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+    {
+      "item": "maidensmerrymaking:stripped_preserved_pine_wood"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "maidensmerrymaking:pine_planks"
+  }
+}

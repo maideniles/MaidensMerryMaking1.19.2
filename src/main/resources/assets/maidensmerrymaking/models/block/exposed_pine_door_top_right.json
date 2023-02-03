@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right",
+  "textures": {
+    "bottom": "maidensmerrymaking:block/exposed_pine_door_bottom",
+    "top": "maidensmerrymaking:block/exposed_pine_door_top"
+  }
+}

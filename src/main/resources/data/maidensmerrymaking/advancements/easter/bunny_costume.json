@@ -1,0 +1,60 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+	"parent": "maidensmerrymaking:easter/root",
+	
+    "display": {
+        "title": {
+            "text": "Here Comes Peter Cottontail!",
+            "color": "aqua"
+        },
+        "description": {
+            "text": "Collect or craft all 4 pieces of the Bunny Suit Armor"
+        },
+        "icon": {
+            "item": "maidensmerrymaking:bunny_hood"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+   "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+				
+						{
+							"items": [
+							"maidensmerrymaking:bunny_hood"
+						],
+								"count":  1
+						},
+						
+						{
+							"items": [
+							"maidensmerrymaking:bunny_costume"
+						],
+								"count":  1
+						},
+						
+						{
+							"items": [
+							"maidensmerrymaking:bunny_pants"
+						],
+								"count":  1
+						},
+						
+						{
+							"items": [
+							"maidensmerrymaking:bunny_feet"
+						],
+								"count":  1
+						}
+						
+				   ]
+                }
+            }
+        }
+   
+}

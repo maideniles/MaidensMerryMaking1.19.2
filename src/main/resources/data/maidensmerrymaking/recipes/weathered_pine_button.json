@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "maidensmerrymaking:weathered_pine_planks"
+    }
+  ],
+  "result": {
+    "item": "maidensmerrymaking:weathered_pine_button"
+  }
+}

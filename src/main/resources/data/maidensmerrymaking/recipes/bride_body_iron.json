@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "maidensmerrymaking:bride_body_leather"    
+		},
+    "addition": {
+        "item": "minecraft:iron_chestplate"   
+		},
+    "result": {
+        "item": "maidensmerrymaking:bride_body_iron"    
+		}     
+		
+	}

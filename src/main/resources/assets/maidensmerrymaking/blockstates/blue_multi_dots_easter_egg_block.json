@@ -1,0 +1,13 @@
+{
+"variants": {
+	
+
+	"facing=north": {"model": "maidensmerrymaking:block/blue_multi_dots_easter_egg_block", "y": 0},
+	"facing=south": { "model": "maidensmerrymaking:block/blue_multi_dots_easter_egg_block", "y": 180},
+	"facing=east": { "model": "maidensmerrymaking:block/blue_multi_dots_easter_egg_block","y": 90},
+	"facing=west": { "model": "maidensmerrymaking:block/blue_multi_dots_easter_egg_block", "y": 270}
+	
+}
+	
+	
+}

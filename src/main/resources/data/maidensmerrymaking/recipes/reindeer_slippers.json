@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "maidensmerrymaking:reindeer_slippers_iron"
+    },
+    "addition": {
+        "item": "minecraft:diamond_boots"
+    },
+    "result": {
+        "item": "maidensmerrymaking:reindeer_slippers"
+    }
+}

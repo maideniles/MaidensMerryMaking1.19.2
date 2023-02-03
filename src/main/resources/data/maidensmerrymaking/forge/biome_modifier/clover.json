@@ -1,0 +1,6 @@
+{
+  "type": "maidensmerrymaking:add_clover",
+  "biomes": "minecraft:plains",
+  "plant": "maidensmerrymaking:clover_placement",
+  "step": "vegetal_decoration"
+}

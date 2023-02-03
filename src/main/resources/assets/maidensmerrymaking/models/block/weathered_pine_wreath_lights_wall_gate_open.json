@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "maidensmerrymaking:block/wreath_lights_fence_gate_open",
+	"render_type": "cutout_mipped", "textures": {
+		"0": "maidensmerrymaking:block/weathered_pine_planks",
+		"1": "maidensmerrymaking:block/fence_garland",
+		"2": "maidensmerrymaking:block/garland_bow",
+		"6": "maidensmerrymaking:block/fence_wreath_lights",
+		"particle": "maidensmerrymaking:block/weathered_pine_planks"
+	}
+}

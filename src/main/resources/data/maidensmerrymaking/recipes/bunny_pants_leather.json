@@ -1,0 +1,21 @@
+
+
+{
+     "type": "minecraft:crafting_shaped",
+        "pattern": [
+           "DDD",
+		   "D D",
+		   "DWD"
+        ],
+        "key": {
+          "W": {
+            "item": "maidensmerrymaking:angora_wool"
+          },
+          "D": {
+            "item": "minecraft:leather"
+          }
+        },
+        "result": {
+          "item": "maidensmerrymaking:bunny_pants_leather"
+        }
+}

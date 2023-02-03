@@ -1,0 +1,11 @@
+{
+    "variants": {
+        
+        "facing=north": {"model": "maidensmerrymaking:block/deco_house", "y": 0},
+        "facing=south": {"model": "maidensmerrymaking:block/deco_house", "y": 180},
+        "facing=west": {"model": "maidensmerrymaking:block/deco_house", "y": 270  },
+        "facing=east": {"model": "maidensmerrymaking:block/deco_house" , "y": 90 }
+        
+        
+   }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "maidensmerrymaking:block/mantel_leg_left",
+  "render_type": "cutout_mipped", 
+  "textures": {
+		"wood": "block/dark_oak_planks",
+		
+		
+		
+		"particle": "#wood"
+	}
+}

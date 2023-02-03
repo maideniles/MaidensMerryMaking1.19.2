@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "maidensmerrymaking:mummy_body_iron"    },
+    "addition": {
+        "item": "minecraft:diamond_chestplate"    },
+    "result": {
+        "item": "maidensmerrymaking:mummy_body"    }     }

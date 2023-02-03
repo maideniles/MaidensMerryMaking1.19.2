@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": 
+	[
+	{
+      "model": "maidensmerrymaking:block/aged_pine_planks"
+    },
+	
+	{
+      "model": "maidensmerrymaking:block/aged_pine_planks_1"
+    }
+	]
+	
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "name": "block.maidensmerrymaking.pink_purple_fade_dots_easter_egg_block",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:pink_purple_fade_dots_easter_egg_block"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+	"parent": "maidensmerrymaking:easter/root",
+    "display": {
+        "title": {
+            "text": "Colors of Spring",
+            "color": "light_purple"
+        },
+        "description": {
+            "text": "Find all 3 new Spring flowers",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "maidensmerrymaking:hydrangea"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "hydrangea": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "maidensmerrymaking:hydrangea"
+            }
+        },
+        "hyacinth": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "maidensmerrymaking:hyacinth"
+            }
+        },
+        "lily": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "maidensmerrymaking:easter_lily"
+            }
+        }
+    }
+ 
+}

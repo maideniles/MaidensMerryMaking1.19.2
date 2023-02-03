@@ -1,0 +1,15 @@
+{
+    "parent": "maidensmerrymaking:block/mantel_deco_2",
+"display": {
+		"thirdperson_righthand": {
+			"rotation": [58.7, -90, 0],
+			"translation": [0, 0.5, 3.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [9, -115, 0],
+			"translation": [-1.25, -1, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

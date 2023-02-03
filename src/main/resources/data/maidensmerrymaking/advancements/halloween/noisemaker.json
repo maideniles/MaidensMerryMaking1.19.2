@@ -1,0 +1,39 @@
+{
+  "parent": "maidensmerrymaking:halloween/root",
+  "display": {
+    "icon": {
+      "item": "maidensmerrymaking:noisemaker",
+      "nbt": "{Damage:1}"
+    },
+    "title": {
+      "text": "Make Some Noise!",
+      "color": "white"
+    },
+    "description": {
+      "text": "Find a Noisemaker inside a Trick-or-Treat bag.",
+      "color": "Green"
+    },
+      "frame": "goal",
+      "show_toast": true,
+
+      "announce_to_chat": true,
+      "hidden": false
+
+  },
+     "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "maidensmerrymaking:noisemaker"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    }
+  }
+
+}

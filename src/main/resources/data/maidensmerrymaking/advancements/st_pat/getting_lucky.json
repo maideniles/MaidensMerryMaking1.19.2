@@ -1,0 +1,39 @@
+{
+  "parent": "maidensmerrymaking:st_pat/root",
+  "display": {
+    "icon": {
+      "item": "maidensmerrymaking:four_leaf_clover",
+      "nbt": "{Damage:1}"
+    },
+    "title": {
+      "text": "Getting Lucky!",
+      "color": "white"
+    },
+    "description": {
+      "text": "Find and use a Four Leaf Clover to bring yourself good luck.",
+      "color": "dark_green"
+    },
+      "frame": "goal",
+      "show_toast": true,
+
+      "announce_to_chat": true,
+      "hidden": false
+
+  },
+     "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "maidensmerrymaking:four_leaf_clover"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    }
+  }
+
+}

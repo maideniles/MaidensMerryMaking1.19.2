@@ -1,0 +1,36 @@
+
+
+{
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+		
+		
+		
+		{
+			"item": "minecraft:green_dye"
+		},
+		
+		{
+			"item": "minecraft:wheat"
+		},
+		
+		{
+			"item": "minecraft:sugar"
+		},
+		
+		{
+			"item": "minecraft:water_bucket"
+		},
+		
+		{
+			"item": "maidensmerrymaking:glass_mug"
+		}
+		
+		],
+	
+		
+	"result": {
+		"item": "maidensmerrymaking:green_beer",
+		"count": 1
+			}
+}

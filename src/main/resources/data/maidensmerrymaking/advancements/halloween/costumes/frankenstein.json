@@ -1,0 +1,57 @@
+{
+  
+	
+	"parent": "maidensmerrymaking:halloween/frightful_fashion",
+    "display": {
+        "title": {
+            "text": "Frankenstein Costume",
+            "color": "white"
+        },
+        "description": {
+            "text": "Find all the pieces to the Frankenstein Costume (Diamond Tier)",
+			"color": "dark_green"
+        },
+        "icon": {
+            "item": "maidensmerrymaking:frankenstein_mask"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+   "criteria": {
+    "frankenstein": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "maidensmerrymaking:frankenstein_mask"
+            ]
+          },
+          {
+            "items": [
+              "maidensmerrymaking:frankenstein_body"
+            ]
+          },
+          {
+            "items": [
+              "maidensmerrymaking:frankenstein_leggings"
+            ]
+          },
+          {
+            "items": [
+              "maidensmerrymaking:frankenstein_feet"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "frankenstein"
+    ]
+  ]
+   
+}

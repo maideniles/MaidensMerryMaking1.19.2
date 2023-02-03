@@ -1,0 +1,10 @@
+{
+  "type": "maidensmerrymaking:add_easter_lily",
+  "biomes": ["minecraft:jungle", 
+			
+			 "minecraft:savanna"
+  
+  ],
+  "plant": "maidensmerrymaking:easter_lily_placement",
+  "step": "vegetal_decoration"
+}

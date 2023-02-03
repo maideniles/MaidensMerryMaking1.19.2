@@ -1,0 +1,41 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " LL",
+		"  L",
+		"  B"
+		
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"L":
+		{
+			
+			"item": "maidensmerrymaking:garland_horizontal_lights"
+		},
+		
+		"B":
+		{
+			
+			"item": "maidensmerrymaking:bow"
+		}
+		
+		
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:garland_vertical_corner_lights_right",
+        "count": 4
+    }
+}

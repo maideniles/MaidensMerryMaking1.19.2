@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "maidensmerrymaking:bride_boots_leather"    },
+    "addition": {
+        "item": "minecraft:iron_boots"    },
+    "result": {
+        "item": "maidensmerrymaking:bride_boots_iron"    }     }

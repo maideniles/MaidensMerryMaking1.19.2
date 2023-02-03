@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "maidensmerrymaking:block/pine_planks",
+    "side": "maidensmerrymaking:block/pine_planks",
+    "top": "maidensmerrymaking:block/pine_planks"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "maidensmerrymaking:add_holly",
+  "biomes": [
+  "minecraft:snowy_plains", 
+  "minecraft:snowy_taiga", 
+  "minecraft:ice_spikes", 
+  "minecraft:snowy_slopes", 
+  "minecraft:frozen_peaks", 
+  "minecraft:grove", 
+  "minecraft:frozen_river", 
+  "minecraft:snowy_beach"
+  ],
+  "plant":	 "maidensmerrymaking:holly_placement",
+				 
+	  
+  "step": "vegetal_decoration"
+}
+

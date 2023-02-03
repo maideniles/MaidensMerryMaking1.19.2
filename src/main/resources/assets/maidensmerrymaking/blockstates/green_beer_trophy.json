@@ -1,0 +1,13 @@
+{
+"variants": {
+	
+
+	"facing=north": {"model": "maidensmerrymaking:block/green_beer_trophy", "y": 0},
+	"facing=south": { "model": "maidensmerrymaking:block/green_beer_trophy", "y": 180},
+	"facing=east": { "model": "maidensmerrymaking:block/green_beer_trophy","y": 90},
+	"facing=west": { "model": "maidensmerrymaking:block/green_beer_trophy", "y": 270}
+	
+}
+	
+	
+}

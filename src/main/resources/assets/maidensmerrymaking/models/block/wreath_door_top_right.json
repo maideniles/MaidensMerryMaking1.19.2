@@ -1,0 +1,61 @@
+{
+	"credit": "Made with Blockbench", 
+	"render_type": "cutout_mipped",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [3, 0, 0, 16], "texture": "#top", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"south": {"uv": [0, 0, 3, 16], "texture": "#top", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#top", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 3], "rotation": 270, "texture": "#top", "cullface": "up"}
+			}
+		},
+		{
+			"name": "wreath1",
+			"from": [-0.1, 0, 0],
+			"to": [-0.1, 16, 16],
+			"shade": false,
+			"color": 6,
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#wreath"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#wreath"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#wreath"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#wreath"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#wreath"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#wreath"}
+			}
+		},
+		{
+			"name": "wreath2",
+			"from": [3.1, 0, 0],
+			"to": [3.1, 16, 16],
+			"shade": false,
+			"color": 6,
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#wreath"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#wreath"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#wreath"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#wreath"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#wreath"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#wreath"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		{
+			"name": "wreath",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"shade": false,
+			"children": [1, 2]
+		}
+	]
+}

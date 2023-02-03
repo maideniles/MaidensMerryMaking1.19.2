@@ -1,0 +1,11 @@
+{
+  "type": "maidensmerrymaking:add_hydrangea",
+  "biomes": ["minecraft:forest", 
+			 "minecraft:jagged_peaks",
+			
+			 "minecraft:stony_peaks"
+  
+  ],
+  "plant": "maidensmerrymaking:hydrangea_placement",
+  "step": "vegetal_decoration"
+}

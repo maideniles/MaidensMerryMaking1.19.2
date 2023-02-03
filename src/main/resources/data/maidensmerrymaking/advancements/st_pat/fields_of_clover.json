@@ -1,0 +1,30 @@
+{
+  "parent": "maidensmerrymaking:st_pat/root",
+  "display": {
+    "icon": {
+      "item": "maidensmerrymaking:clover"
+    },
+    "title": {
+      "text": "Fields of Clover",
+      "color": "white"
+        },
+
+    "description":{
+      "text": "Walk through a patch of clover.",
+      "color": "dark_green"
+    },
+    "frame": "goal",
+
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "maidensmerrymaking:clover"
+      }
+    }
+
+  }
+
+}

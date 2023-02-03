@@ -1,0 +1,198 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:mantel_normal_weathered_pine",
+          "conditions": [
+            {
+              "condition": "minecraft:survives_explosion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:garland_horizontal_multi",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_weathered_pine_top_middle_stocking",
+              "properties": {
+                "decoration": "4"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:garland_horizontal_multi",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_weathered_pine_top_middle_stocking",
+              "properties": {
+                "decoration": "7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:garland_horizontal_lights",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_weathered_pine_top_middle_stocking",
+              "properties": {
+                "decoration": "3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:garland_horizontal_lights",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_weathered_pine_top_middle_stocking",
+              "properties": {
+                "decoration": "6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:garland_horizontal",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_weathered_pine_top_middle_stocking",
+              "properties": {
+                "decoration": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:garland_horizontal",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_weathered_pine_top_middle_stocking",
+              "properties": {
+                "decoration": "5"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:stocking",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_weathered_pine_top_middle_stocking",
+              "properties": {
+                "decoration": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:stocking",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_weathered_pine_top_middle_stocking",
+              "properties": {
+                "decoration": "5"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:stocking",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_weathered_pine_top_middle_stocking",
+              "properties": {
+                "decoration": "6"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:stocking",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_weathered_pine_top_middle_stocking",
+              "properties": {
+                "decoration": "7"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

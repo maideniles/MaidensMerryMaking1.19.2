@@ -1,0 +1,28 @@
+{
+  "variants": {
+  
+   "decoration=0,facing=north": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left", "y": 270},
+   "decoration=1,facing=north": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland", "y": 270},
+   "decoration=2,facing=north": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland_lights", "y": 270},
+   "decoration=3,facing=north": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland_multi", "y": 270}, 
+ 
+  
+   "decoration=0,facing=south": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left", "y": 90},
+   "decoration=1,facing=south": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland", "y": 90},
+   "decoration=2,facing=south": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland_lights", "y": 90},
+   "decoration=3,facing=south": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland_multi", "y": 90}, 
+  
+  
+   "decoration=0,facing=east": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left"},
+   "decoration=1,facing=east": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland"},
+   "decoration=2,facing=east": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland_lights"},
+   "decoration=3,facing=east": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland_multi"}, 
+ 
+   "decoration=0,facing=west": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left", "y": 180},
+   "decoration=1,facing=west": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland", "y": 180},
+   "decoration=2,facing=west": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland_lights", "y": 180},
+   "decoration=3,facing=west": {"model":  "maidensmerrymaking:block/mantel_pine_leg_left_garland_multi", "y": 180}
+  
+  }
+  
+}

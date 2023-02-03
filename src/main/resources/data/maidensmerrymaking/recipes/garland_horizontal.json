@@ -1,0 +1,38 @@
+
+
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+		"LLL",
+		"B B"
+		
+    ],
+    
+    "key":
+    {
+       
+		
+		"L":
+		{
+			
+			"item": "minecraft:spruce_leaves"
+		},
+		
+		"B":
+		{
+			
+			"item": "maidensmerrymaking:bow"
+		}
+		
+		
+    },
+    
+    "result":
+    {
+        "item": "maidensmerrymaking:garland_horizontal",
+        "count": 3
+    }
+}

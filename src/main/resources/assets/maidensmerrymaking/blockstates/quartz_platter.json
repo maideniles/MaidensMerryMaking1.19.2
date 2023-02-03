@@ -1,0 +1,13 @@
+{
+"variants": {
+	
+
+	"facing=north": {"model": "maidensmerrymaking:block/quartz_platter"},
+	"facing=south": { "model": "maidensmerrymaking:block/quartz_platter", "y": 180},
+	"facing=east": { "model": "maidensmerrymaking:block/quartz_platter","y": 90},
+	"facing=west": { "model": "maidensmerrymaking:block/quartz_platter", "y": 270}
+	
+}
+	
+	
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "maidensmerrymaking:red_ugly_christmas_sweater_leather"
+    },
+    "addition": {
+        "item": "minecraft:iron_chestplate"
+    },
+    "result": {
+        "item": "maidensmerrymaking:red_ugly_christmas_sweater_iron"
+    }
+}

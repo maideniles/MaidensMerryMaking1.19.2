@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "maidensmerrymaking:block/exposed_pine_planks"
+  }
+}

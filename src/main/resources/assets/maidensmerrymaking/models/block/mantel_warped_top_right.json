@@ -1,0 +1,9 @@
+{
+  "parent": "maidensmerrymaking:block/mantel_top_right",
+  "render_type": "cutout_mipped", 
+  "textures": {
+		"wood": "block/warped_planks",
+				
+		"particle": "#wood"
+	}
+}

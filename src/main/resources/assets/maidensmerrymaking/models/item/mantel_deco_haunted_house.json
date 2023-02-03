@@ -1,0 +1,13 @@
+{
+    "parent": "maidensmerrymaking:block/deco_house",
+ "display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [6, -29, 0],
+			"translation": [-1, -2, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}

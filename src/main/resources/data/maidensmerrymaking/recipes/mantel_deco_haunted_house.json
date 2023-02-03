@@ -1,0 +1,32 @@
+{
+	          "type": "minecraft:crafting_shaped",
+        "pattern": [
+           "RIR",
+		   "SCS",
+		   "WGW"
+        ],
+        "key": {
+          "R": {
+            "item": "maidensmerrymaking:roof_tiles"
+          },
+		   "I": {
+            "item": "minecraft:iron_ingot"
+          },
+		   "S": {
+            "item": "minecraft:stick"
+          },
+		   "C": {
+            "item": "minecraft:clay_ball"
+          },
+		  
+		   "W": {
+            "item": "minecraft:black_carpet"
+          },
+          "G": {
+            "item": "minecraft:glowstone_dust"
+          }
+        },
+        "result": {
+          "item": "maidensmerrymaking:mantel_deco_haunted_house"
+        }
+}

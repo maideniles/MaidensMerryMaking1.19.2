@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "maidensmerrymaking:lucky_hat"
+    },
+    "title":{
+      "text": "St. Patrick's Day",
+      "color": "white"
+         },
+
+    "description": {
+      "text": "Unlock the St. Patrick's Day Achievements Tab",
+    "color": "dark_green"
+  },
+
+    "background": "minecraft:textures/block/blackstone.png",
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "block": "maidensmerrymaking:clover"
+      }
+    }
+  }
+
+}

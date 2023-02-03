@@ -1,0 +1,10 @@
+{
+  "parent": "maidensmerrymaking:block/mantel_top_left_stocking",
+  "render_type": "cutout_mipped", 
+  "textures": {
+		"wood": "block/acacia_planks",
+		
+		
+		"particle": "#wood"
+	}
+}

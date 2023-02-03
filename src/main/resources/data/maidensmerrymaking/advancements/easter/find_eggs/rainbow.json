@@ -1,0 +1,41 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+	
+	"parent": "maidensmerrymaking:easter/eggstraordinaire",
+    "display": {
+        "title": {
+            "text": "Find the Pastel Rainbow Egg",
+            "color": "aqua"
+        },
+        "description": {
+            "text": "Description"
+        },
+        "icon": {
+            "item": "maidensmerrymaking:rainbow_easter_egg_block"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+   "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+				
+						{
+							"items": [
+							"maidensmerrymaking:rainbow_easter_egg_block"
+						],
+								"count":  1
+						}
+						
+						
+						
+				   ]
+                }
+            }
+        }
+   
+}

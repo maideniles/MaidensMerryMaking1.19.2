@@ -1,0 +1,11 @@
+{
+  "parent": "maidensmerrymaking:block/mantel_top_left_garland_lit_stocking",
+  "render_type": "cutout_mipped", 
+  "textures": {
+		"wood": "maidensmerrymaking:block/pine_planks",
+		"bow": "maidensmerrymaking:block/garland_bow",
+		"garland": "maidensmerrymaking:block/garland_horizontal_lights",
+		
+		"particle": "#wood"
+	}
+}

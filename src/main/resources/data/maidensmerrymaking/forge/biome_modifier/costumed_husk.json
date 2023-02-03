@@ -1,0 +1,16 @@
+{
+  "type": "maidensmerrymaking:mobspawns",
+  "biomes": [
+
+    "minecraft:badlands",
+    "minecraft:desert"
+   
+	
+  ],
+  "spawn": {
+    "type": "maidensmerrymaking:costumed_husk",
+  "maxCount": 3,
+    "minCount": 1,
+    "weight": 15
+  }
+}

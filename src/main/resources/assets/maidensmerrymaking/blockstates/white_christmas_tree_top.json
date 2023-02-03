@@ -1,0 +1,70 @@
+{
+  "variants": {
+  
+ "decoration=0,lit=false": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_top"},
+ 
+ "decoration=1,lit=false": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_white_lights_top"},
+ 
+ "decoration=2,lit=false": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_multi_lights_top"},
+ 
+ "decoration=3,lit=false": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_garland_top"},
+ 
+ "decoration=4,lit=false": {"model":  "maidensmerrymaking:block/decorated_white_snowy_christmas_tree_top"},
+ 
+ "decoration=5,lit=false": {"model":  "maidensmerrymaking:block/decorated_snowy_christmas_tree_top"},
+ 
+ 
+ "decoration=6,lit=false": {"model":  "maidensmerrymaking:block/decorated_white_lights_snowy_christmas_tree_top"},
+ "decoration=7,lit=false": {"model":  "maidensmerrymaking:block/decorated_lights_snowy_christmas_tree_top"},
+ 
+ "decoration=8,lit=false": {"model":  "maidensmerrymaking:block/decorated_white_multi_snowy_christmas_tree_top"},
+ "decoration=9,lit=false": {"model":  "maidensmerrymaking:block/decorated_multi_snowy_christmas_tree_top"},
+ 
+ "decoration=10,lit=false": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_lights_garland_top"},
+ "decoration=11,lit=false": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_multi_garland_top"},
+ 
+ "decoration=12,lit=false": {"model":  "maidensmerrymaking:block/decorated_white_lights_garland_snowy_christmas_tree_top"},
+ "decoration=13,lit=false": {"model":  "maidensmerrymaking:block/decorated_lights_garland_snowy_christmas_tree_top"},
+ 
+ "decoration=14,lit=false": {"model":  "maidensmerrymaking:block/decorated_white_multi_garland_snowy_christmas_tree_top"},
+ "decoration=15,lit=false": {"model":  "maidensmerrymaking:block/decorated_multi_garland_snowy_christmas_tree_top"},
+ 
+ "decoration=16,lit=false": {"model":  "maidensmerrymaking:block/decorated_white_garland_snowy_christmas_tree_top"},
+ "decoration=17,lit=false": {"model":  "maidensmerrymaking:block/decorated_garland_snowy_christmas_tree_top"},
+ 
+ 
+  "decoration=0,lit=true": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_top"},
+ 
+ "decoration=1,lit=true": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_white_lights_top"},
+ 
+ "decoration=2,lit=true": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_multi_lights_top"},
+ 
+ "decoration=3,lit=true": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_garland_top"},
+ 
+ "decoration=4,lit=true": {"model":  "maidensmerrymaking:block/decorated_white_snowy_christmas_tree_top"},
+ 
+ "decoration=5,lit=true": {"model":  "maidensmerrymaking:block/decorated_snowy_christmas_tree_top"},
+ 
+ 
+ "decoration=6,lit=true": {"model":  "maidensmerrymaking:block/decorated_white_lights_snowy_christmas_tree_top"},
+ "decoration=7,lit=true": {"model":  "maidensmerrymaking:block/decorated_lights_snowy_christmas_tree_top"},
+ 
+ "decoration=8,lit=true": {"model":  "maidensmerrymaking:block/decorated_white_multi_snowy_christmas_tree_top"},
+ "decoration=9,lit=true": {"model":  "maidensmerrymaking:block/decorated_multi_snowy_christmas_tree_top"},
+ 
+ "decoration=10,lit=true": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_lights_garland_top"},
+ "decoration=11,lit=true": {"model":  "maidensmerrymaking:block/snowy_christmas_tree_multi_garland_top"},
+ 
+ "decoration=12,lit=true": {"model":  "maidensmerrymaking:block/decorated_white_lights_garland_snowy_christmas_tree_top"},
+ "decoration=13,lit=true": {"model":  "maidensmerrymaking:block/decorated_lights_garland_snowy_christmas_tree_top"},
+ 
+ "decoration=14,lit=true": {"model":  "maidensmerrymaking:block/decorated_white_multi_garland_snowy_christmas_tree_top"},
+ "decoration=15,lit=true": {"model":  "maidensmerrymaking:block/decorated_multi_garland_snowy_christmas_tree_top"},
+ 
+ "decoration=16,lit=true": {"model":  "maidensmerrymaking:block/decorated_white_garland_snowy_christmas_tree_top"},
+ "decoration=17,lit=true": {"model":  "maidensmerrymaking:block/decorated_garland_snowy_christmas_tree_top"}
+ 
+   
+  
+    }
+}

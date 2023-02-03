@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "maidensmerrymaking:red_santa_hat_iron"
+    },
+    "addition": {
+        "item": "minecraft:diamond_helmet"
+    },
+    "result": {
+        "item": "maidensmerrymaking:red_santa_hat"
+    }
+}

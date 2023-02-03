@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "maidensmerrymaking:bunny_hood_leather"
+    },
+    "addition": {
+        "item": "minecraft:iron_helmet"
+    },
+    "result": {
+        "item": "maidensmerrymaking:bunny_hood_iron"
+    }
+}

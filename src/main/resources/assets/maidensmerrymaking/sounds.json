@@ -1,0 +1,90 @@
+{
+ 
+  "christmas_disc": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:christmas_disc",
+        "stream": true
+      }
+    ]
+  },
+  
+     "iron_gate_open": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:iron_gate_open",
+        "stream": true
+      }
+    ]
+  },
+  
+  
+     "iron_gate_close": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:iron_gate_close",
+        "stream": true
+      }
+    ]
+  },
+  
+     "iron_gate_hit": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:iron_gate_hit",
+        "stream": true
+      }
+    ]
+  },
+     "iron_gate_place": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:iron_gate_place",
+        "stream": true
+      }
+    ]
+  },
+     "iron_gate_break": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:iron_gate_break",
+        "stream": true
+      }
+    ]
+  },
+     "iron_gate_step": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:iron_gate_step",
+        "stream": true
+      }
+    ]
+  },
+     "iron_gate_fall": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:iron_gate_fall",
+        "stream": true
+      }
+    ]
+  },
+  
+  
+   "christmas_disc_2": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:christmas_disc_2",
+        "stream": true
+      }
+    ]
+  },
+  
+   "halloween_disc": {
+    "sounds": [
+      {
+        "name": "maidensmerrymaking:halloween_disc",
+        "stream": true
+      }
+    ]
+  }
+}

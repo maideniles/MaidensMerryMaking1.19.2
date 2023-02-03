@@ -1,0 +1,64 @@
+{
+  "pools": [
+   
+	
+	  {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:garland_vertical_left",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_oak_leg_left",
+              "properties": {
+                "decoration": "1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+	
+   {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:garland_vertical_lights_left",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_oak_leg_left",
+              "properties": {
+                "decoration": "2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+ 
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "maidensmerrymaking:garland_vertical_multi_left",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "maidensmerrymaking:mantel_oak_leg_left",
+              "properties": {
+                "decoration": "3"
+              }
+            }
+          ]
+        }
+      ]
+    }
+ 
+ 
+  ]
+}

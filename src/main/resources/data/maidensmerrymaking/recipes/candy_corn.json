@@ -1,0 +1,25 @@
+{
+       "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		{
+			"item": "minecraft:sugar"
+		},
+		{
+			"item": "minecraft:milk_bucket"
+		},
+		{
+			"item": "minecraft:white_dye"
+		},
+		{
+			"item": "minecraft:yellow_dye"
+		},
+		{
+			"item": "minecraft:orange_dye"
+		}
+			
+	],
+        "result": {
+          "item": "maidensmerrymaking:candy_corn"
+        }
+}

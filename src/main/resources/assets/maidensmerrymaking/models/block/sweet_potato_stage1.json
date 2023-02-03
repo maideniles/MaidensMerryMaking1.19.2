@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "render_type": "cutout_mipped", "textures": {
+        "crop": "maidensmerrymaking:block/sweet_potato_stage1"
+    }
+}

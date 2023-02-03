@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+    {
+      "item": "maidensmerrymaking:stripped_weathered_pine_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "maidensmerrymaking:weathered_pine_planks"
+  }
+}
